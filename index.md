@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
 <h1>Rand Developer Privacy Policy</h1>
 <br>
 <p>This privacy notice discloses the privacy practices for the Android Applications listed above.  It applies only to the information collected in those applications and will notify you of the following:</p>
@@ -15,5 +12,3 @@
 <li>Free Mind Logic: no information is collected.  This app is ad supported with the ads coming from Google's Ad Mob who is solely responsible for the ad content.</li>
 <li>Aviator's Zulu Time Widget: no information is collected.</li>
 </ul>
-</body>
-</html>
