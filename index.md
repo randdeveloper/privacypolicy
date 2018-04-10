@@ -5,10 +5,10 @@ AdMob.  G4 Bulls and Cows is the inexpensive, ad-free version of Free
 Mind Logic.</P>
 <P STYLE="margin-bottom: 0in"><BR>
 </P>
-<P STYLE="margin-bottom: 0in"><IMG SRC="privacypolicyranddev_html_m57689561.png" NAME="ace" ALIGN=CENTER WIDTH=117 HEIGHT=117 BORDER=0><BR>
+<P STYLE="margin-bottom: 0in"><IMG SRC="/privacypolicyranddev_html_m57689561.png" NAME="ace" ALIGN=CENTER WIDTH=117 HEIGHT=117 BORDER=0><BR>
 </P><BR><BR>
   <P>Aviator's Zulu time is an app with a home screen widget for calculating departure time.  We collect no personal information whatsoever.  There are no ads and this app is suitable for people of all ages.</P>
-  <PSTYLE="margin-bottom: 0in"><IMG SRC="icon.png" NAME="ace" ALIGN=center WIDTH=117 HEIGHT=117 BORDER=0><BR>
+  <PSTYLE="margin-bottom: 0in"><IMG SRC="/icon.png" NAME="ace" ALIGN=center WIDTH=117 HEIGHT=117 BORDER=0><BR>
 </P>
 </BODY>
 </HTML>
