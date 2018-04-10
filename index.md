@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Privacy Policy Rand Developer</title>
-</head>
 <body>
 <h1>Rand Developer Privacy Policy</h1>
 <br>
